@@ -1,0 +1,32 @@
+D:\Projekty .NET\BabyManager\BabyManager\bin\Debug\net5.0\BabyManager.exe
+D:\Projekty .NET\BabyManager\BabyManager\bin\Debug\net5.0\BabyManager.deps.json
+D:\Projekty .NET\BabyManager\BabyManager\bin\Debug\net5.0\BabyManager.runtimeconfig.json
+D:\Projekty .NET\BabyManager\BabyManager\bin\Debug\net5.0\BabyManager.runtimeconfig.dev.json
+D:\Projekty .NET\BabyManager\BabyManager\bin\Debug\net5.0\BabyManager.dll
+D:\Projekty .NET\BabyManager\BabyManager\bin\Debug\net5.0\BabyManager.pdb
+D:\Projekty .NET\BabyManager\BabyManager\obj\Debug\net5.0\BabyManager.csproj.AssemblyReference.cache
+D:\Projekty .NET\BabyManager\BabyManager\obj\Debug\net5.0\BabyManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty .NET\BabyManager\BabyManager\obj\Debug\net5.0\BabyManager.AssemblyInfoInputs.cache
+D:\Projekty .NET\BabyManager\BabyManager\obj\Debug\net5.0\BabyManager.AssemblyInfo.cs
+D:\Projekty .NET\BabyManager\BabyManager\obj\Debug\net5.0\BabyManager.csproj.CoreCompileInputs.cache
+D:\Projekty .NET\BabyManager\BabyManager\obj\Debug\net5.0\BabyManager.dll
+D:\Projekty .NET\BabyManager\BabyManager\obj\Debug\net5.0\refint\BabyManager.dll
+D:\Projekty .NET\BabyManager\BabyManager\obj\Debug\net5.0\BabyManager.pdb
+D:\Projekty .NET\BabyManager\BabyManager\obj\Debug\net5.0\BabyManager.genruntimeconfig.cache
+D:\Projekty .NET\BabyManager\BabyManager\obj\Debug\net5.0\ref\BabyManager.dll
+E:\BabyManager\BabyManager\obj\Debug\net5.0\BabyManager.csproj.AssemblyReference.cache
+E:\BabyManager\BabyManager\obj\Debug\net5.0\BabyManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\BabyManager\BabyManager\obj\Debug\net5.0\BabyManager.AssemblyInfoInputs.cache
+E:\BabyManager\BabyManager\obj\Debug\net5.0\BabyManager.AssemblyInfo.cs
+E:\BabyManager\BabyManager\obj\Debug\net5.0\BabyManager.csproj.CoreCompileInputs.cache
+E:\BabyManager\BabyManager\obj\Debug\net5.0\BabyManager.dll
+E:\BabyManager\BabyManager\obj\Debug\net5.0\refint\BabyManager.dll
+E:\BabyManager\BabyManager\obj\Debug\net5.0\BabyManager.pdb
+E:\BabyManager\BabyManager\bin\Debug\net5.0\BabyManager.exe
+E:\BabyManager\BabyManager\bin\Debug\net5.0\BabyManager.deps.json
+E:\BabyManager\BabyManager\bin\Debug\net5.0\BabyManager.runtimeconfig.json
+E:\BabyManager\BabyManager\bin\Debug\net5.0\BabyManager.runtimeconfig.dev.json
+E:\BabyManager\BabyManager\bin\Debug\net5.0\BabyManager.dll
+E:\BabyManager\BabyManager\bin\Debug\net5.0\BabyManager.pdb
+E:\BabyManager\BabyManager\obj\Debug\net5.0\BabyManager.genruntimeconfig.cache
+E:\BabyManager\BabyManager\obj\Debug\net5.0\ref\BabyManager.dll
